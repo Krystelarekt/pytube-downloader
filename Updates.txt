@@ -1,0 +1,7 @@
+Initial commit. (Date-> 2 Aug 2021)
+
+the downloader can get a song name from the user and search youtube using web sraping to find the links of first 5 video links.
+It then gets the name, uploader and length of each video and displays in terminal and waits for the user to choose one.
+After getting the response from the user, a Youtube object (defined in pytube library) is created and all availible audio streams are displayed.
+The user then enters an audio stream id which then initiates the download.
+The file is saved in the same directory as that of the program.
