@@ -63,8 +63,6 @@ def get_url(query):
     print(video_link)
     return video_link
 
-# to create download from playlist, get txt file containing either queries or urls and loop the above processes
-
 # main code here
 
 # printing gui
