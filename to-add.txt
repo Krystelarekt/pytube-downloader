@@ -1,0 +1,8 @@
+set the path to where to download the file
+add playlist functionality
+get tags of song from spotify to add to song
+select bitrate and quality of audio/video
+include a mailing system
+use selenium to automate everything
+pull data from form csv
+make everything more user friendly
